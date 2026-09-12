@@ -1,0 +1,8 @@
+{
+  "accuracy": 0.5802469135802469,
+  "model": "SVC",
+  "features": [
+    "Open/Close",
+    "High/Low"
+  ]
+}
